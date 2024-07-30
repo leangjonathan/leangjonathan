@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @leangjonathan
+- 👀 I’m interested in databases and data lakes
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on Iceberg-related projects
+- 📫 How to reach me: leangjonathan@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have a pet slug
